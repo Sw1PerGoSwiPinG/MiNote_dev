@@ -1,0 +1,7 @@
+net.micode.notes.app-pngs-0 D:\CyberSecurity\code\Android\Notes_\app\build\generated\res\pngs\debug
+net.micode.notes.app-resValues-1 D:\CyberSecurity\code\Android\Notes_\app\build\generated\res\resValues\debug
+net.micode.notes.app-packageDebugResources-2 D:\CyberSecurity\code\Android\Notes_\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+net.micode.notes.app-packageDebugResources-3 D:\CyberSecurity\code\Android\Notes_\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+net.micode.notes.app-merged_res-4 D:\CyberSecurity\code\Android\Notes_\app\build\intermediates\merged_res\debug
+net.micode.notes.app-debug-5 D:\CyberSecurity\code\Android\Notes_\app\src\debug\res
+net.micode.notes.app-main-6 D:\CyberSecurity\code\Android\Notes_\app\src\main\res
